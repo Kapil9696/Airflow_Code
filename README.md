@@ -14,7 +14,7 @@ Amazon MWAA (Managed Workflows for Apache Airflow) is AWS’s managed service th
 - Core Idea: You write DAGs (Directed Acyclic Graphs) in Python, and MWAA executes them reliably at scale.
 
 
-## Demo image
+## Airflow architecture
 
 
 ![System architecture diagram](./airflow-sagemaker-airflow-dag.png)
